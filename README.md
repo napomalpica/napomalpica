@@ -4,7 +4,7 @@ Geospatial analyst and environmental data engineer focused on satellite imagery,
 
 - Focus: Geospatial analysis, remote sensing, and socio-environmental research
 - Stack: QGIS, ArcGIS, Power BI, Python, R, Google Earth Engine
-- Connect: [LinkedIn](https://www.linkedin.com/in/napole%C3%B3n-malpica-3355a512b/) | [Email](napomalpica@gmail.com)
+- Connect: [LinkedIn](https://www.linkedin.com/in/napole%C3%B3n-malpica-3355a512b/) | [napomalpica@gmail.com](napomalpica@gmail.com)
 
 ## Featured Projects
 
